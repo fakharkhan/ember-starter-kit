@@ -6,6 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="cb42d0c9-d671-426d-baff-c90879047016" time="1384070553366" ignored="false" />
     <file path="/todo_controller.js" changelist="cb42d0c9-d671-426d-baff-c90879047016" time="1383978622614" ignored="false" />
+    <file path="/.gitignore" changelist="cb42d0c9-d671-426d-baff-c90879047016" time="1384072955019" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.49222797">
+            <state line="54" column="16" selection-start="1896" selection-end="1896" vertical-scroll-proportion="-6.25">
               <folding>
                 <element signature="tag#script#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -54,11 +55,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todos_controller.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="todos_controller.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/controllers/todos_controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="23" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#102#595#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,11 +79,12 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/application.js" />
         <option value="$PROJECT_DIR$/js/models/todo.js" />
-        <option value="$PROJECT_DIR$/js/controllers/todos_controller.js" />
         <option value="$PROJECT_DIR$/js/views/edit_todo_view.js" />
         <option value="$PROJECT_DIR$/js/controllers/todo_controller.js" />
         <option value="$PROJECT_DIR$/js/router.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/controllers/todos_controller.js" />
       </list>
     </option>
   </component>
@@ -387,13 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers/todos_controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="23" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers/todo_controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="46" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
@@ -415,11 +412,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TODO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.49222797">
+        <state line="54" column="16" selection-start="1896" selection-end="1896" vertical-scroll-proportion="-6.25">
           <folding>
             <element signature="tag#script#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers/todos_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#102#595#0" expanded="false" />
           </folding>
         </state>
       </provider>
