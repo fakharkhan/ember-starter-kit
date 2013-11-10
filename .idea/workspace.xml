@@ -26,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1126" selection-end="1126" vertical-scroll-proportion="-13.125">
+            <state line="72" column="0" selection-start="2366" selection-end="2366" vertical-scroll-proportion="0.59893996">
               <folding>
-                <element signature="tag#script#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#script#1;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -55,13 +55,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todos_controller.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="todos_controller.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/controllers/todos_controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="60" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.8208955">
+            <state line="49" column="60" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#102#595#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,14 +86,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/application.js" />
         <option value="$PROJECT_DIR$/js/models/todo.js" />
         <option value="$PROJECT_DIR$/js/views/edit_todo_view.js" />
         <option value="$PROJECT_DIR$/js/controllers/todo_controller.js" />
         <option value="$PROJECT_DIR$/js/router.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/controllers/todos_controller.js" />
+        <option value="$PROJECT_DIR$/js/application.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/libs/localstorage_adapter.js" />
+        <option value="$PROJECT_DIR$/js/libs/ember.js" />
       </list>
     </option>
   </component>
@@ -166,6 +177,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-starter-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ember-starter-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -377,13 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="54" selection-start="97" selection-end="97" vertical-scroll-proportion="0.024793388">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/models/todo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="29" selection-start="263" selection-end="263" vertical-scroll-proportion="0.32231405">
@@ -426,20 +448,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/controllers/todos_controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1126" selection-end="1126" vertical-scroll-proportion="-13.125">
+        <state line="49" column="60" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="tag#script#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="e#102#595#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers/todos_controller.js">
+    <entry file="file://$PROJECT_DIR$/js/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="60" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.8208955">
+        <state line="1" column="0" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/libs/localstorage_adapter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="3" selection-start="3807" selection-end="3807" vertical-scroll-proportion="3.159204">
           <folding>
-            <element signature="e#102#595#0" expanded="false" />
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/libs/ember.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="46" selection-start="1361" selection-end="1361" vertical-scroll-proportion="0.5084746">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="2366" selection-end="2366" vertical-scroll-proportion="0.59893996">
+          <folding>
+            <element signature="tag#script#1;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
